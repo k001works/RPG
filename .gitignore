@@ -34,10 +34,13 @@ captures/
 
 # Intellij
 *.iml
-.idea/workspace.xml
 
 # Keystore files
 *.jks
+
+# Android studio
+**/.idea/workspace.xml
+**/.idea/libraries/
 
 # Image files
 *.jpg
