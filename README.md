@@ -1,8 +1,11 @@
 ## RPG
 ロールプレイングゲーム風のスマホアプリです。<br />
 プレイヤーは勇者となり、城に住むボスを退治しに行くゲームです。
+
 <p>
-<img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg0.png" width="32%" height="auto" /> <img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg1.png" width="32%" height="auto" /> <img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg2.png" width="32%" height="auto" />
+<img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg0.jpg" width="30%" height="auto" />　
+<img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg1.jpg" width="30%" height="auto" />　
+<img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg2.jpg" width="30%" height="auto" />
 </p>
 
 ## 遊び方
