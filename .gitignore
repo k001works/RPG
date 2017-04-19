@@ -50,18 +50,19 @@ captures/
 *.svg
 
 # Audio files
-.mp3
-.wav
-.aac
-.m4a
-.ogg
-.3gp
-.flac
-.mid
-.xmf
-.mxmf
-.rtttl
-.rtx
-.ota
-.imy
-.mkv
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.ogg
+*.3gp
+*.flac
+*.mid
+*.xmf
+*.mxmf
+*.rtttl
+*.rtx
+*.ota
+*.imy
+*.mkv
+
