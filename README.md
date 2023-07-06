@@ -2,12 +2,6 @@
 ロールプレイングゲーム風のスマホアプリです。<br />
 プレイヤーは勇者となり、城に住むボスを退治しに行くゲームです。
 
-<p>
-<img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg0.jpg" width="30%" height="auto" />　
-<img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg1.jpg" width="30%" height="auto" />　
-<img src="http://k001-works.sakura.ne.jp/apps/rpg/rpg2.jpg" width="30%" height="auto" />
-</p>
-
 ## 遊び方
 > マップ画面
 
@@ -24,9 +18,8 @@
 - 逃げる　： 一定の確率で逃げられますが、失敗した場合は敵の攻撃を受けます。（※ボスは逃げられません）
 
 ## Android
-http://k001-works.sakura.ne.jp/apps/rpg/app-release.apk
 
-※野良アプリのため、インストールの際は、Android設定画面から以下の設定をONにしてからお試しください。
+※アプリインストールの際は、ビルド生成されたアプリをAndroid設定画面から下記設定をONにしてお試しください。
 
 [設定変更]<br />
 設定　→　ロック画面とセキュリティ　→　提供元不明のアプリ
